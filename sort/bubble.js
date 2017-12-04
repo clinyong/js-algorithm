@@ -1,10 +1,5 @@
 const { list } = require("./constants");
-
-function swap(list, iIndex, jIndex) {
-	const tmp = list[iIndex];
-	list[iIndex] = list[jIndex];
-	list[jIndex] = tmp;
-}
+const { swap } = require("./utils");
 
 function bubbleSort(list) {
 	const len = list.length;
