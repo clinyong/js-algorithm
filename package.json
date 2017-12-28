@@ -1,0 +1,23 @@
+{
+  "name": "js-algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clinyong/js-algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clinyong/js-algorithm/issues"
+  },
+  "homepage": "https://github.com/clinyong/js-algorithm#readme",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
